@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Priyanshu Kumar <br><br>💡 I'm a Computer Science Engineering student | Passionate about Cloud Computing, Python & Web Development.<br><br>🎓 Studying at Lovely Professional University, Punjab (B.Tech CSE, Batch of 2026).<br><br>🌱 Currently learning AWS, Cloud-Native Technologies, and sharpening my skills in Full Stack Development.<br><br>🎮 In my free time, I enjoy football, exploring tech videos, and working on creative coding projects.<br><br>💬 Feel free to reach out to me for tech talks, collaborations, or projects!<br><br>✉️ You can email me at pk2525507@gmail.com — I'll respond as soon as possible!</p>
+<p align="left">I'm Priyanshu Kumar <br><br>💡 I'm a Computer Science Engineering student | Passionate about Cloud Computing, Python & Web Development.<br><br>🎓 Studying at Lovely Professional University, Punjab (B.Tech CSE, Batch of 2023).<br><br>🌱 Currently learning AWS, Cloud-Native Technologies, and sharpening my skills in Full Stack Development.<br><br>🎮 In my free time, I enjoy football, exploring tech videos, and working on creative coding projects.<br><br>💬 Feel free to reach out to me for tech talks, collaborations, or projects!<br><br>✉️ You can email me at pk2525507@gmail.com — I'll respond as soon as possible!</p>
 
 
 
